@@ -30,7 +30,7 @@
  
 <br/>
 
-### Apaixonado por técnologia, educaçao e por mudar a vida das pessoas através da programação.
+### Apaixonado por tecnologia e educação, meu objetivo é transformar vidas por meio da programação.
  
 
  
